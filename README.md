@@ -1,5 +1,7 @@
 # Claude 使用环境配置指南
 
+![Table-ClaudeGuide：黑蛋和 Claude 一起翻看指南](assets/table-claudeguide-banner.png)
+
 把仓库链接发给能操作你电脑的 Agent，告诉它你属于下面哪种情况。Agent 会先检查本机，说明建议改什么、有什么影响。你确认后，它再备份、配置、验证，并告诉你怎么恢复。
 
 ## 选你的入口
